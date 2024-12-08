@@ -1,0 +1,34 @@
+# Node.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+documentos/
+
+# Cache
+.cache/
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# IDE specific
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
